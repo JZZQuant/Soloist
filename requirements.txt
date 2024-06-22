@@ -57,4 +57,4 @@ urllib3==2.2.2
 webcolors==24.6.0
 wheel==0.43.0
 zipp==3.19.2
-pywin32
+pywin32==306
