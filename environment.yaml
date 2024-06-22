@@ -1,0 +1,16 @@
+name: audio_tool
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - kivy
+  - pydub
+  - music21
+  - pygame
+  - ffpyplayer
+  - numpy
+  - matplotlib
+  - librosa
+  - pip
+  - pip:
+    - ffpyplayer
